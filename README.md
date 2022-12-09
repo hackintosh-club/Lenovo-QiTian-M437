@@ -6,7 +6,8 @@
 
 ### OS
 
-- Ventura 13.0.1
+- Monterey 12.x
+- Ventura 13.x
 
 
 ### Known issues
