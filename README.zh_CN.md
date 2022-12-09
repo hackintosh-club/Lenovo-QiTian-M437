@@ -1,7 +1,7 @@
-## Lenovo-QiTian-M437 Intel Gen10 Hackintosh OpenCore EFI
+## Lenovo-QiTian-M437 10代 黑苹果 OpenCore EFI
 
 
-### [简体中文](README.zh_CN.md)
+### [English](README.md)
 
 
 ### OS
@@ -26,12 +26,12 @@ macOS Ventura 13.0.1
 - [RealtekRTL8111.kext 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 
 
-### Tools
+### 工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
-- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
-- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
-- [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partition.
-- [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI partition mount App.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
-- [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
+- [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。
+- [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
+- [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
