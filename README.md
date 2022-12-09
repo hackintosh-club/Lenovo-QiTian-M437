@@ -6,7 +6,12 @@
 
 ### OS
 
-macOS Ventura 13.0.1
+- Ventura 13.0.1
+
+
+### Known issues
+
+- No `WiFi` and `Bluetooth`
 
 
 ### OpenCore

@@ -6,7 +6,12 @@
 
 ### OS
 
-macOS Ventura 13.0.1
+- Ventura 13.0.1
+
+
+### Known issues
+
+- `WiFi` 和 `蓝牙` 无法使用
 
 
 ### OpenCore
