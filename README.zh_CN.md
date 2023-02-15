@@ -1,4 +1,4 @@
-## Lenovo-QiTian-M437 10代 黑苹果 OpenCore EFI
+## Lenovo启天M437 10代 黑苹果 OpenCore EFI
 
 
 ### [English](README.md)
@@ -12,12 +12,12 @@
 
 ### Known issues
 
-- `WiFi` 和 `蓝牙` 无法使用
+- 未安装无线网卡，故`WiFi` 和 `蓝牙` 无法使用
 
 
 ### OpenCore
 
-[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts

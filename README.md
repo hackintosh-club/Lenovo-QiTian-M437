@@ -12,12 +12,12 @@
 
 ### Known issues
 
-- No `WiFi` and `Bluetooth`
+- No Wireless LAN Adapter，So `WiFi` and `Bluetooth` unserviceable .
 
 
 ### OpenCore
 
-[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts
