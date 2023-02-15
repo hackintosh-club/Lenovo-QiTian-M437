@@ -1,5 +1,6 @@
 ## Lenovo-QiTian-M437 Intel Gen10 Hackintosh OpenCore EFI
 
+![image](ScreenShot/M437.png)
 
 ### [简体中文](README.zh_CN.md)
 
