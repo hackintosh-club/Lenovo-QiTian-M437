@@ -4,41 +4,35 @@
 
 ### [English](README.md)
 
+### OpenCore
 
-### OS
+[OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
 
-- Monterey 12.x
-- Ventura 13.x
+### 可安装系统
 
+- macOS Monterey 12.x
+- macOS Ventura  13.x 
+
+### 硬件
+- 主板: 联想 H470
+- Bios版本: 
+- 处理器: 英特尔 i5-10500
+- 内存: 金士顿 8GB DDR4 3200 + 威刚 8GB DDR4 3200
+- 硬盘: 联想 x800 256G nvme m.2 2280
+- 核显: 英特超核心显卡 630
+- 声卡: 瑞昱 ALC897
+- 网卡: 瑞昱 8168
+- 电源: 250W
+
+### 注意事项
+ - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
+ - 使用前务必使用CFGLock.efi工具解锁 CFG LOCK
+![image](ScreenShot/CFGLock.efi.png)
 
 ### Known issues
 
 - 未安装无线网卡，故`WiFi` 和 `蓝牙` 无法使用
 
 
-### OpenCore
-
-[OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
-
-
-### Kexts
-
-- [Lilu.kext 1.6.2](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.2](https://github.com/acidanthera/WhateverGreen)
-- [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.7.7](https://github.com/acidanthera/AppleALC)
-- [RealtekRTL8111.kext 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
-
-
-### 工具
-
-- [Hackintool](https://github.com/headkaze/Hackintool) 
-- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
-- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
-- [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。
-- [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
-- [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
+### 机箱展示
+![image](ScreenShot/CASE.png)
