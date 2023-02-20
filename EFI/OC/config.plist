@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key>#DEVICE</key>
-        <string>Lenovo-QiTian-M437</string>
-        <key>#VERSION</key>
-        <string>0.8.7</string>
+        <key>#About</key>
+        <string>B站UP：乌龙蜜桃来一打</string>
+        <key>#Website</key>
+        <string>https://github.com/hackintosh-efi/Lenovo-QiTian-M437</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>
@@ -620,13 +620,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02216902QXPHC1JA</string>
+                <string>C02150501CDPHC1A8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>FRG/9ykp</data>
+                <data>z9rp3azN</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -634,9 +634,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02HLNYGPN5T</string>
+                <string>C02GT8Y0PN5T</string>
                 <key>SystemUUID</key>
-                <string>BAF59085-C58B-4702-99E8-04CACDE1DD17</string>
+                <string>3E4C665F-6981-4E8B-8DDD-D70930120A87</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
