@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/M437.png)
 
-### [English](README.md)
+### [English](https://github.com/hackintosh-efi/Lenovo-QiTian-M437)
 
 ### OpenCore
 
