@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 10.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -27,9 +27,9 @@
 - 电源: 250W
 
 ### 注意事项
- - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- - 使用前务必使用CFGLock.efi工具解锁 CFG LOCK
-![image](ScreenShot/CFGLock.efi.png)
+ - 首次安装前，必须在OC UI界面按空格键后，选择CFG Lock工具解锁BIOS中的CFG Lock
+ - 安装成功后请务必使用 [OCAuxliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 重新生成 SMBIOS
+ - ![image](ScreenShot/CFGLock.efi.png)
 
 ### Known issues
 

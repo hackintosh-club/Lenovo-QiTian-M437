@@ -28,9 +28,10 @@
 - PSU: 250W 
 
 ### Notes
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
-![image](ScreenShot/CFGLock.efi.png)
+
+ - Before the first installation, you must press the spacebar in the OC UI interface and select the CFG Lock.efi tool to unlock the CFG Lock
+ - After successful installation, please be sure to use OCAuxiliaryTools to regenerate the SMBIOS
+ - ![image](ScreenShot/CFGLock.efi.png)
 
 ### Known issues
 
